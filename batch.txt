@@ -1,0 +1,10 @@
+path /bin
+ls > lista.txt
+pwd > out.txt
+cd ..
+pwd
+echo 123 & echo 456 & echo 789
+cd SO-Lab2-20241
+sleep 5 & echo sleeping
+cat out.txt
+echo done
